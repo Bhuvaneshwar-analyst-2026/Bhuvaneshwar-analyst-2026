@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=280&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=65&descSize=17&descColor=7eb8f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=250&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=65&descSize=17&descColor=7eb8f7"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=7EB8F7&background=00000000&center=true&vCenter=true&width=700&height=45&lines=📊+Business+Analyst+%7C+Data+Analyst+%7C+Finance+Analyst;💡+Turning+Raw+Data+Into+Business+Decisions;🏗️+Real+Capstone+Project+—+Lithko+Contracting;🎓+MS+Business+Analytics+@+University+of+Dayton;🟢+OPT+Ready+—+No+Sponsorship+Needed!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=7EB8F7&background=00000000&center=true&vCenter=true&width=700&height=45&lines=📊+Business+Analyst+%7C+Data+Analyst+%7C+Finance+Analyst;💡+Turning+Raw+Data+Into+Business+Decisions;🏗️+Real+Capstone+—+Lithko+Contracting+(120%2B+Models);🎓+MS+Business+Analytics+@+University+of+Dayton;🟢+OPT+Ready+—+No+Sponsorship+Needed!" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 </a>
 &nbsp;
 <a href="https://bhuvaneshwar-analyst-2026.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Bhuvaneshwar-analyst-2026&style=for-the-badge&color=7eb8f7&label=PROFILE+VIEWS"/>
@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 ### 👨‍💼 About Me
 
@@ -59,7 +59,6 @@ Email    : bhuvaneshwars934@gmail.com
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Workflows-FF6F00?style=flat-square)
 
 </div>
 
@@ -84,7 +83,7 @@ Email    : bhuvaneshwars934@gmail.com
 | 🏭 Manufacturing | **83.8%** | 5.1% |
 | 🏠 Apartment | **23.7%** | 9.7% |
 
-✅ 120+ Models &nbsp; ✅ 6 Years Data &nbsp; ✅ 20+ Indicators
+✅ 120+ Models &nbsp; ✅ 6 Years Data
 
 [View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Lithko-Contracting-INC-construction-growth-forecasting-analytics)
 
@@ -95,10 +94,9 @@ Email    : bhuvaneshwars934@gmail.com
 **500,000+ Records Analyzed**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-✅ Window Functions &nbsp; ✅ CTEs &nbsp; ✅ Weather Correlation
+✅ Window Functions ✅ CTEs ✅ Weather Correlation
 
 [View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Traffic-Violations-SQL-analysis)
 
@@ -110,24 +108,13 @@ Email    : bhuvaneshwars934@gmail.com
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-✅ Logistic Regression &nbsp; ✅ Decision Tree &nbsp; ✅ LDA
+✅ Logistic Regression ✅ Decision Tree ✅ LDA
 
 [View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Customer-Churn-ML-model)
 
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar-analyst-2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=FFFFFF&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwar-analyst-2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7eb8f7&text_color=FFFFFF&langs_count=6"/>
-
-</div>
 
 ---
 
@@ -160,7 +147,7 @@ Email    : bhuvaneshwars934@gmail.com
 </a>
 &nbsp;
 <a href="https://bhuvaneshwar-analyst-2026.github.io">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>

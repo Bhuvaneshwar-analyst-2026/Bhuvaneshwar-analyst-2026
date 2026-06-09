@@ -1,73 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=220&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=68&descSize=16&descColor=7eb8f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=240&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=65&descSize=17&descColor=7eb8f7"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3000&pause=1000&color=7EB8F7&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Turning+complex+data+into+clear+business+decisions;MS+Business+Analytics+%7C+University+of+Dayton+%7C+GPA+3.6;OPT+Ready+%E2%80%94+Available+Immediately+%E2%80%94+No+Sponsorship+Needed" />
 
 </div>
 
 ---
 
-### 👋 Hello, I'm Bhuvaneshwar
+## About Me
 
-I am a **Business Analyst and Data Analyst** with a Master of Business Analytics from the University of Dayton and a B.Com in Finance & Accounting. I combine business thinking with analytical skills to turn complex data into clear business decisions.
+I am a **Business Analyst, Data Analyst, and Financial Analyst** with a Master of Business Analytics from the University of Dayton and a Bachelor of Commerce in Finance and Accounting from Ballari Business College.
 
-🟢 **Available on OPT — No Sponsorship Required — Ready to Start Immediately**
+My background uniquely bridges finance, business strategy, and data analytics — allowing me to understand both the business context behind decisions and the analytical methods used to drive them. I have hands-on experience in requirements gathering, KPI reporting, business intelligence, forecasting, stakeholder communication, and data-driven problem solving.
 
-📍 Dayton, OH — Open to US Roles & Relocation
+During my graduate studies, I led a client-facing capstone project with **Lithko Contracting** — one of the largest concrete contractors in the United States — where I built 120+ forecasting models using economic indicators to predict construction sector growth and support long-term strategic planning.
 
----
-
-### 🎓 Education
-
-**Master of Business Analytics** — University of Dayton, GPA 3.6 *(2026)*
-
-**Bachelor of Commerce, Finance & Accounting** — Ballari Business College *(2023)*
+🟢 Available on OPT · No Sponsorship Required · Open to Remote, Hybrid, or On-Site roles across the US
 
 ---
 
-### 🛠️ Skills
+## Skills
 
-**Analytics & BI** — SQL · Power BI · Tableau · Advanced Excel · KPI Reporting · Data Visualization
+**Business & Analytics**
+Business Analysis · Requirements Gathering · KPI Reporting · Stakeholder Management · Business Intelligence · Data Visualization · Financial Analytics · Forecasting
 
-**Programming** — Python · R · Pandas · Scikit-learn
-
-**Business** — Business Analysis · Requirements Gathering · Stakeholder Management · Financial Analytics
-
-**Cloud & Data** — Snowflake · ETL Workflows · AWS · MySQL
+**Tools & Technologies**
+SQL · Power BI · Tableau · Advanced Excel · Python · R · Snowflake · ETL Workflows · MySQL · AWS
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-**[Construction Growth Forecasting — Lithko Contracting](https://github.com/Bhuvaneshwar-analyst-2026/Lithko-Contracting-INC-construction-growth-forecasting-analytics)**
-Real client capstone project — University of Dayton · Built 120+ forecasting models across 5 sectors using 20+ economic indicators. Achieved up to 83.8% lift over baseline predictions.
+#### ⭐ Construction Growth Forecasting — Lithko Contracting
+*Real Client · University of Dayton Capstone · 2026*
 
-**[Traffic Violations SQL Analysis](https://github.com/Bhuvaneshwar-analyst-2026/Traffic-Violations-SQL-analysis)**
-Analyzed 500,000+ DC traffic records using advanced SQL — window functions, CTEs, joins, and weather correlation with Tableau dashboards.
+Analyzed economic and operational datasets to identify future construction growth opportunities across 5 sectors. Built 120+ forecasting models using 20+ economic indicators achieving up to 83.8% improvement over baseline predictions. Tools: R · SQL · Power BI
 
-**[Customer Churn ML Model](https://github.com/Bhuvaneshwar-analyst-2026/Customer-Churn-ML-model)**
-Built and compared Logistic Regression, Decision Tree, LDA, and Naive Bayes models achieving 85% prediction accuracy.
-
-**[Tata Motors Financial Analysis](https://github.com/Bhuvaneshwar-analyst-2026/tata-motors-fundamental-analysis)**
-Comprehensive fundamental analysis using EIC framework — EPS, P/E, P/BV, intrinsic value calculation and investment recommendation.
+[View Repository →](https://github.com/Bhuvaneshwar-analyst-2026/Lithko-Contracting-INC-construction-growth-forecasting-analytics)
 
 ---
 
-### 📜 Certifications
+#### Traffic Violations SQL Analysis
+*University of Dayton · Database Management Systems*
 
-- Oracle Cloud Infrastructure AI Foundations — *Oracle, 2025*
-- AWS Cloud Technical Essentials — *Amazon Web Services, 2024*
-- Google AI Fundamentals — *Google, 2024*
-- SQL for Data Science with Python — *IBM, 2024*
+Analyzed 500,000+ Washington DC traffic violation records using advanced SQL — window functions, CTEs, complex joins — and correlated violations with weather data using Tableau dashboards. Tools: SQL · MySQL · Python · Tableau
+
+[View Repository →](https://github.com/Bhuvaneshwar-analyst-2026/Traffic-Violations-SQL-analysis)
 
 ---
 
-### 📬 Contact
+#### Customer Churn Prediction — ML Model
+*University of Dayton · Machine Learning*
 
-📧 bhuvaneshwars934@gmail.com
+Built and compared four machine learning models — Logistic Regression, Decision Tree, LDA, and Naive Bayes — to predict customer churn with 85% accuracy. Applied feature engineering, cross-validation, and model comparison. Tools: Python · Scikit-learn · Pandas
 
-📞 +1 (937) 304-2197
+[View Repository →](https://github.com/Bhuvaneshwar-analyst-2026/Customer-Churn-ML-model)
 
-🔗 [LinkedIn](https://linkedin.com/in/bhuvaneshwar-s-57516a299) · [Portfolio Website](https://bhuvaneshwar-analyst-2026.github.io) · [GitHub](https://github.com/Bhuvaneshwar-analyst-2026)
+---
+
+#### Tata Motors Fundamental Analysis
+*Ballari Business College · B.Com Finance Project*
+
+Comprehensive fundamental analysis of Tata Motors using the EIC framework — economic analysis, industry analysis, and company financial analysis including EPS, P/E, P/BV ratios and intrinsic value calculation. Tools: Excel · Financial Ratio Analysis
+
+[View Repository →](https://github.com/Bhuvaneshwar-analyst-2026/tata-motors-fundamental-analysis)
+
+---
+
+## Education
+
+**Master of Business Analytics** — University of Dayton, Dayton OH *(2024–2026)* · GPA 3.6
+
+**Bachelor of Commerce, Finance & Accounting** — Ballari Business College, India *(2020–2023)*
+
+---
+
+## Certifications
+
+Oracle Cloud Infrastructure AI Foundations — *Oracle, 2025*
+
+AWS Cloud Technical Essentials — *Amazon Web Services, 2024*
+
+Google AI Fundamentals — *Google, 2024*
+
+SQL for Data Science with Python — *IBM, 2024*
+
+---
+
+## Contact
+
+📧 bhuvaneshwars934@gmail.com · 📞 +1 (937) 304-2197 · 📍 Dayton, OH
+
+[LinkedIn](https://linkedin.com/in/bhuvaneshwar-s-57516a299) · [Portfolio](https://bhuvaneshwar-analyst-2026.github.io) · [GitHub](https://github.com/Bhuvaneshwar-analyst-2026)
 
 ---
 

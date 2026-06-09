@@ -1,157 +1,178 @@
-<div align="center">
+markdown<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=250&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=65&descSize=17&descColor=7eb8f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=260&section=header&text=Bhuvaneshwar%20Sannappareddy&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Finance%20Analyst&descAlignY=62&descSize=17&descColor=7eb8f7&stroke=7eb8f7&strokeWidth=1"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=7EB8F7&background=00000000&center=true&vCenter=true&width=700&height=45&lines=📊+Business+Analyst+%7C+Data+Analyst+%7C+Finance+Analyst;💡+Turning+Raw+Data+Into+Business+Decisions;🏗️+Real+Capstone+—+Lithko+Contracting+(120%2B+Models);🎓+MS+Business+Analytics+@+University+of+Dayton;🟢+OPT+Ready+—+No+Sponsorship+Needed!" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3000&pause=1000&color=7EB8F7&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Turning+complex+data+into+clear+business+decisions;MS+Business+Analytics+%7C+University+of+Dayton+%7C+GPA+3.6;Available+on+OPT+%E2%80%94+No+Sponsorship+%E2%80%94+Ready+to+Start+Immediately" />
 
 <br/>
 
-<a href="https://linkedin.com/in/bhuvaneshwar-s-57516a299">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:bhuvaneshwars934@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://bhuvaneshwar-analyst-2026.github.io">
-<img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Bhuvaneshwar-analyst-2026&style=for-the-badge&color=7eb8f7&label=PROFILE+VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bhuvaneshwar-s-57516a299)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=github)](https://bhuvaneshwar-analyst-2026.github.io)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail)](mailto:bhuvaneshwars934@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Bhuvaneshwar-analyst-2026&style=flat-square&color=7eb8f7&label=Profile+Views)
 
 </div>
 
----
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                        ABOUT ME                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+I am a **Business Analyst, Data Analyst, and Financial Analyst** with a Master of Business Analytics from the University of Dayton and a B.Com in Finance & Accounting from Ballari Business College.
 
-### 👨‍💼 About Me
+My background uniquely bridges **finance, business strategy, and data analytics** — allowing me to understand both the business context behind decisions and the analytical methods used to drive them. I have hands-on experience in business requirements gathering, KPI reporting, stakeholder communication, business intelligence, forecasting, and data-driven problem solving.
 
-```yaml
-Name     : Bhuvaneshwar Sannappareddy
-Role     : Business Analyst | Data Analyst
-Education: MS Business Analytics — Univ. of Dayton | GPA 3.6
-Location : Dayton, OH — Open to US Roles & Relocation
-Status   : 🟢 OPT Ready | No Sponsorship | Available NOW
-Email    : bhuvaneshwars934@gmail.com
-```
+During my graduate studies, I led a client-facing capstone project with **Lithko Contracting** — one of the largest concrete contractors in the United States — where I built 120+ forecasting models using 20+ economic indicators to predict construction sector growth and support long-term strategic planning.
 
-<br clear="right"/>
+> 🟢 **Available on OPT · No Sponsorship Required · Open to Remote, Hybrid, or On-Site Roles Across the US**
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,github,aws&theme=dark&perline=5"/>
-
-<br/><br/>
-
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Advanced-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                      SKILLS & TOOLS                          ║
+╚══════════════════════════════════════════════════════════════╝
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🏗️ Construction Growth Forecasting
-**Lithko Contracting — Real Client Capstone**
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-| Sector | Lift | MAPE |
-|---|---|---|
-| 🏢 Data Center | **80.1%** | 7.5% |
-| 🏭 Manufacturing | **83.8%** | 5.1% |
-| 🏠 Apartment | **23.7%** | 9.7% |
-
-✅ 120+ Models &nbsp; ✅ 6 Years Data
-
-[View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Lithko-Contracting-INC-construction-growth-forecasting-analytics)
+**Business & Analytics**
+Business Analysis          ████████████  Advanced
+Requirements Gathering     ████████████  Advanced
+KPI Reporting              ████████████  Advanced
+Stakeholder Management     ████████████  Advanced
+Financial Analytics        ████████████  Advanced
+Business Intelligence      ████████████  Advanced
+Data Visualization         ████████████  Advanced
+Forecasting & Modeling     ████████████  Advanced
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-### 🚦 Traffic Violations SQL Analysis
-**500,000+ Records Analyzed**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-✅ Window Functions ✅ CTEs ✅ Weather Correlation
-
-[View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Traffic-Violations-SQL-analysis)
-
----
-
-### 📉 Customer Churn ML Model
-**85% Prediction Accuracy**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-✅ Logistic Regression ✅ Decision Tree ✅ LDA
-
-[View Project →](https://github.com/Bhuvaneshwar-analyst-2026/Customer-Churn-ML-model)
+**Tools & Technologies**
+SQL                        ████████████  Advanced
+Power BI                   ████████████  Advanced
+Advanced Excel             ████████████  Advanced
+Tableau                    ████████████  Advanced
+R Language                 ████████████  Advanced
+Python                     █████████░░░  Intermediate
+Snowflake & ETL            ████████░░░░  Proficient
+AWS Cloud                  ████████░░░░  Proficient
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                    FEATURED PROJECTS                         ║
+╚══════════════════════════════════════════════════════════════╝
 
-### 🎓 Education & Certifications
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|---|---|---|
-| MS Business Analytics | University of Dayton | 2026 |
-| B.Com Finance & Accounting | Ballari Business College | 2023 |
-
+<details>
+<summary><b>⭐ Construction Growth Forecasting — Lithko Contracting INC</b> &nbsp;|&nbsp; Real Client · University of Dayton Capstone · 2026</summary>
 <br/>
 
-![Oracle](https://img.shields.io/badge/Oracle_Cloud_AI_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google](https://img.shields.io/badge/Google_AI_Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_SQL_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+Analyzed economic and operational datasets to identify future construction growth opportunities across **5 sectors**. Built **120+ forecasting models** using **20+ economic indicators** from FRED and the US Census Bureau — achieving up to **83.8% improvement** over baseline predictions. Enabled Lithko leadership to act **4–6 quarters in advance** of market shifts.
 
-</div>
+| Sector | Horizon | Lift vs Baseline | MAPE |
+|---|---|---|---|
+| Manufacturing | 5Q ahead | **83.8%** | 5.1% |
+| Data Center | 5Q ahead | **80.1%** | 7.5% |
+| Warehouse | 6Q ahead | **39.7%** | 21.2% |
+| Apartment | 4Q ahead | **23.7%** | 9.7% |
+
+**Tools:** R · SQL · Power BI · tidyverse · FRED API · US Census Bureau
+
+[→ View Repository](https://github.com/Bhuvaneshwar-analyst-2026/Lithko-Contracting-INC-construction-growth-forecasting-analytics)
+
+</details>
 
 ---
 
+<details>
+<summary><b>🚦 Traffic Violations SQL Analysis</b> &nbsp;|&nbsp; University of Dayton · Database Management Systems</summary>
+<br/>
+
+Analyzed **500,000+ Washington DC traffic violation records** using advanced SQL techniques — window functions, CTEs, complex joins — and correlated violations with weather data. Built interactive Tableau dashboards communicating findings to non-technical stakeholders.
+
+**Tools:** SQL · MySQL · Python · Pandas · Tableau
+
+[→ View Repository](https://github.com/Bhuvaneshwar-analyst-2026/Traffic-Violations-SQL-analysis)
+
+</details>
+
+---
+
+<details>
+<summary><b>📉 Customer Churn Prediction — ML Model</b> &nbsp;|&nbsp; University of Dayton · Machine Learning</summary>
+<br/>
+
+Built and compared **four machine learning models** — Logistic Regression, Decision Tree, LDA, and Naive Bayes — to predict customer churn achieving **85% accuracy**. Applied feature engineering, cross-validation, threshold optimization, and delivered a business incentive scheme showing **$22,329 net benefit** over 6 months.
+
+**Tools:** Python · Scikit-learn · Pandas · R · Power BI
+
+[→ View Repository](https://github.com/Bhuvaneshwar-analyst-2026/Customer-Churn-ML-model)
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Tata Motors Fundamental Analysis</b> &nbsp;|&nbsp; Ballari Business College · B.Com Finance</summary>
+<br/>
+
+Comprehensive **fundamental analysis** of Tata Motors using the EIC (Economy–Industry–Company) framework. Analyzed GDP, FDI, inflation, and industry life cycle. Calculated EPS, P/E Ratio, P/BV Ratio, and intrinsic value. Final recommendation: **HOLD/SELL** — stock overvalued at ₹465.95 vs intrinsic value ₹306.42.
+
+**Tools:** Excel · Financial Ratio Analysis · EIC Framework
+
+[→ View Repository](https://github.com/Bhuvaneshwar-analyst-2026/tata-motors-fundamental-analysis)
+
+</details>
+
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                       EDUCATION                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+| Degree | Institution | Year | GPA |
+|---|---|---|---|
+| **MS Business Analytics** | University of Dayton, OH | 2024 – 2026 | 3.6 / 4.0 |
+| **B.Com Finance & Accounting** | Ballari Business College, India | 2020 – 2023 | — |
+
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                     CERTIFICATIONS                           ║
+╚══════════════════════════════════════════════════════════════╝
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Oracle Cloud Infrastructure AI Foundations | Oracle | 2025 |
+| AWS Cloud Technical Essentials | Amazon Web Services | 2024 |
+| Google AI Fundamentals | Google | 2024 |
+| SQL for Data Science with Python | IBM | 2024 |
+
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                    GITHUB STATS                              ║
+╚══════════════════════════════════════════════════════════════╝
+
 <div align="center">
 
-### 🟢 Available on OPT — No Sponsorship Required — Ready to Start Immediately
-
-<a href="https://linkedin.com/in/bhuvaneshwar-s-57516a299">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://bhuvaneshwar-analyst-2026.github.io">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=120&section=footer&text=Open+to+Work+%7C+Business+Analyst+%7C+Data+Analyst&fontSize=16&fontColor=7eb8f7&animation=fadeIn&fontAlignY=65&reversal=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bhuvaneshwar-analyst-2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=FFFFFF&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvaneshwar-analyst-2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7eb8f7&text_color=FFFFFF&langs_count=6"/>
 
 </div>
+
+<br/>
+╔══════════════════════════════════════════════════════════════╗
+║                       CONTACT                                ║
+╚══════════════════════════════════════════════════════════════╝
+
+<div align="center">
+
+📧 bhuvaneshwars934@gmail.com &nbsp;·&nbsp; 📞 +1 (937) 304-2197 &nbsp;·&nbsp; 📍 Dayton, OH
+
+[LinkedIn](https://linkedin.com/in/bhuvaneshwar-s-57516a299) &nbsp;·&nbsp; [Portfolio Website](https://bhuvaneshwar-analyst-2026.github.io) &nbsp;·&nbsp; [GitHub](https://github.com/Bhuvaneshwar-analyst-2026)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000000,30:0a0a2e,60:0d1b4b,100:000000&height=100&section=footer&text=Open%20to%20Work%20%7C%20Bu
